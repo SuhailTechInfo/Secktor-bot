@@ -1,7 +1,7 @@
 
 
- <h1 align="center">Important Announcement </h1> 
- <h3 align="center">❌ This repository is Depricated ❌</h3> 
+ <h1 align="center">❌ Repository Closed ❌ </h1> 
+ <h3 align="center">This repository is Depricated</h3> 
 <h1 align="center"> Deploy Suhail Md From  <a href="https://github.com/SuhailTechInfo/Suhail-Md" > Here. </a>  </h1>
 <p align="center">
     <a aria-label="Suhail_Md" href="https://github.com/SuhailTechInfo/Suhail-Md" target="_blank">
@@ -14,3 +14,4 @@
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 </p>
+
