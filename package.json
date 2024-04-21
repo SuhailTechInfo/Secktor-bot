@@ -1,13 +1,13 @@
 {
-    "name": "suhail-md",
+    "name": "kavihan-md",
     "version": "1.0.4",
-    "description": "Multi device whatsapp bot by SuhailTechInfo.",
+    "description": "Multi device whatsapp bot by kavishanTechInfo.",
     "main": "lib/client.js",
     "type": "commonjs",
     "license": "GPL-3.0",
 "scripts": {
-     "start": "pm2 start lib/client.js --deep-monitoring --attach --name Suhail",
-     "stop": "pm2 stop Suhail"
+     "start": "pm2 start lib/client.js --deep-monitoring --attach --name kavishan",
+     "stop": "pm2 stop kavishan"
      },
     "author": "SuhailTechInfo",
    "dependencies": {
@@ -72,10 +72,10 @@
          },
       "repository": {
       "type": "git",
-      "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+      "url": "git+https://github.com/SuhailTechInfo/kavishan-Md.git"
        },
       "bugs": {
-      "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues"
+      "url": "https://github.com/kavishanTechInfo/kavishan-Md/issues"
        },
-      "homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+      "homepage": "https://github.com/kavishanTechInfo/kavishan-Md#readme"
        }
