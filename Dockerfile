@@ -11,7 +11,7 @@ RUN rm -rf .git
 
 
 # Install npm dependencies with network concurrency fix
-RUN npm install --network-concurrency 1
+RUN npm install
 
 
 # Expose port 8000
