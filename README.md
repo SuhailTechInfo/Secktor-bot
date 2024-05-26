@@ -15,3 +15,9 @@
   </a>
 </p>
 
+
+add your repository after below link
+```
+https://dashboard.heroku.com/new?template=
+```
+
