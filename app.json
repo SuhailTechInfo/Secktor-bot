@@ -3,7 +3,7 @@
     "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
     "success_url": "/suhail/",
     "app_url": "/qr/",
-    
+    "stack":"container",
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",    
